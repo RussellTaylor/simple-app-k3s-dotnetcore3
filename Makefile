@@ -1,5 +1,5 @@
-MYNAME="mikhail"
-MYDOCKERUSER="thecrazyrussian"
+MYNAME="russell"
+MYDOCKERUSER="russjtaylor"
 IMAGETAG=1
 customize:
 	mkdir -p kubernetes
